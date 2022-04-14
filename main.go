@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/christianscott/go-buildkite/buildkite"
+	"github.com/buildkite/go-buildkite/v3/buildkite"
 
 	opentracing "github.com/opentracing/opentracing-go"
 	"github.com/uber/jaeger-client-go"
