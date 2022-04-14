@@ -7,7 +7,7 @@
 ## Installing
 
 ```bash
-go get -u github.com/buildkite/build-trace
+go get -u github.com/christianscott/build-trace
 ```
 
 ## Running Jaeger
